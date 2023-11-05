@@ -45,7 +45,7 @@ body::-webkit-scrollbar-track {
 .particle::after {
   position: absolute;
   content: '';
-  top: 100vh;
+  top: 100px;
 }
 
 .particle:nth-child(1) {
