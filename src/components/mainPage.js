@@ -81,7 +81,7 @@ function MainPage() {
 <section className='contactSection' id='contact' style={{ minHeight: '100vh' }}>
   <div className='flex justify-center items-center flex-col' style={{ paddingTop: '10%'}}>
     <h1 className='font-thin text-4xl text-center' style={{ color: '#a6a4a4' }}>Contact Me 📞!</h1>
-    <p className='pt-2 text-center font-normal' style={{ color: '#a6a4a4' }}> You can email me at <span className='font-semibold'>nexusptx@gmail.com</span> and <span className='font-semibold'>jmn3x@outlook.com</span>. <br></br>I'm also on Instagram as <span className='font-semibold'>@nex4s</span></p>
+    <p className='pt-2 text-center font-normal' style={{ color: '#a6a4a4' }}> You can email me at <span className='font-semibold'>nexusptx@gmail.com</span> and <span className='font-semibold'>jmn3x@outlook.com</span>. <br></br>I'm also on Instagram as <span className='font-semibold'>@nex4s_</span></p>
   </div>
 </section>
 
