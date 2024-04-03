@@ -9,6 +9,9 @@ function MainPage() {
   }
 
   return (
+    <head>
+    <meta name="p:domain_verify" content="e44d690008316f3b0c39649267bbb8bb"/>
+    </head>
     <div className='text-white font-semibold' style={{ minHeight: '100vh' }}>
        <nav className='flex flex-row justify-evenly list-none	pt-5 text-red-400'>
           <li><button onClick={() => scrollToSection('skills')}>Skills</button></li>
